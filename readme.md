@@ -1,4 +1,4 @@
-# New York City Criminal Activities
+# Data Preparation and EDA of New York City Criminal Activities
 
 This repository contains a study related to crime occurrences and their correlation with lunar and solar phases.
 
